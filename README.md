@@ -22,19 +22,6 @@ influencing app download behaviour in the mobile gaming market.
 
 > *Which time-varying and time-invariant factors significantly influence
 > the weekly download count of mobile game apps?*
-
----
-
-## 📂 Repository Structure
-
-```
-game-app-panel-analysis/
-│
-├── Part1_GameApp_Panel_Analysis.Rmd   ← Full analysis (R Markdown)
-├── Part1_GameApp_Panel_Analysis.html  ← Rendered report (open in browser)
-└── README.md
-```
-
 ---
 
 ## 🔬 Methods
@@ -103,8 +90,8 @@ the full rendered analysis without running any code.
 
 ## 🔗 Related Projects
 
-- [🌿 Sustainable Brand Choice — Binary Logit Analysis](https://github.com/thaotracy-sg/sustainable-brand-logit-analysis)
-- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/electric-power-co2-forecasting-europe)
+- [🌿 Sustainable Brand Choice — Binary Logit Analysis](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis)
+- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe)
 
 ---
 
