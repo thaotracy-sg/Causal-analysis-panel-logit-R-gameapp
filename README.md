@@ -88,10 +88,13 @@ the full rendered analysis without running any code.
 
 ---
 
-## 🔗 Related Projects
+## 🔗 More Projects
 
-- [🌿 Sustainable Brand Choice — Binary Logit Analysis](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis)
-- [🔋 Electric Power & CO₂ Forecasting](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe)
+📊 [Power BI IMS Dashboard Enhancement – Healthcare](https://github.com/thaotracy-sg/powerbi-ims-dashboard-enhancement-healthcare) <br>
+🛒 [SQL + R Customer Survey Pipeline](https://github.com/thaotracy-sg/sql-r-customer-survey-pipeline) <br>
+🌿 [Sustainable Brand Logit Analysis](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) <br>
+🧴 [Commercial Analytics – Skincare Channel Performance](https://github.com/thaotracy-sg/Commercial-analytics-skincare-channel-performance) <br>
+🔋 [Time Series Forecasting – Electric Power & CO2 Emissions](https://github.com/thaotracy-sg/Time-series-forecasting-electric-power-co2-emission-europe) <br>
 
 ---
 
